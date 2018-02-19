@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518986142 source:f:\c projects\practice\functionpointerexample\main.c
+	<stdio.h>
+	<stdlib.h>
+
